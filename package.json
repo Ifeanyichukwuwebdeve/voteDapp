@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "web3": "^1.6.0"
+  },
+  "name": "votedapp",
+  "version": "1.0.0",
+  "description": "Vote app",
+  "main": "index.js",
+  "author": "Great Adams",
+  "license": "MIT"
+}
